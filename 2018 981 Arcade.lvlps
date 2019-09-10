@@ -1,5 +1,9 @@
 [ProjectWindow_Data]
+<<<<<<< HEAD
 ProjectExplorer.ClassicPosition[String] = "387,-2347,1067,-1485"
+=======
+ProjectExplorer.ClassicPosition[String] = "80,267,705,935"
+>>>>>>> 81a187c14fa5a1d4d246b46775f6a90821a72f09
 
 [AB_Cache_{8C1C8770-D686-4931-835E-3A364C203F20}]
 Cache_Path[Path] Line0001 = "/C/Users/steele/AppData/Local/Temp/AB_Cache_{8C1C8"
